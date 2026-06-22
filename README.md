@@ -4,7 +4,7 @@ A gamified Islamic learning application for children aged 5 to 10, built as a Fi
 
 ## About
 
-IlmQuest turns Islamic education for children into an interactive adventure. Instead of passive content, children explore worlds, learn through stories, and make moral choices that shape their character, building good *akhlaq* while having fun. Parents stay involved through weekly reports, and all content is scholar-guided rather than user-generated.
+IlmQuest turns Islamic education for children into an interactive adventure. Instead of passive content, children explore worlds, learn through stories, and make moral choices that shape their character, building good *akhlaq* while having fun. Parents stay involved through weekly reports.
 
 ## Modules
 
@@ -21,7 +21,7 @@ IlmQuest turns Islamic education for children into an interactive adventure. Ins
 - **Flutter:** cross-platform mobile client
 - **Bonfire** (built on the **Flame** 2D game engine): quest scenes, character movement, and NPC dialogue
 - **Node.js + Express:** REST API backend
-- **PostgreSQL (Supabase):** primary database
+- **PostgreSQL:** primary database
 - **Firebase Auth & Cloud Messaging:** authentication and push notifications
 - **Cloudinary:** media storage and delivery
 
